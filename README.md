@@ -8,11 +8,14 @@ after the first report the school board has notified Maria and her supervisor th
 
 How is the district summary affected?
 
-![](Resources/School_type_before_changes)
+### Figure 1: District before change 
+
+![](Resources/School_type_before_changes.png)
 
 
 
-![](Resources/School_type_after_changes)
+### Figure 2: District after change 
+![](Resources/School_type_after_changes.png)
 
 
 How is the school summary affected?
