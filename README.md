@@ -36,10 +36,13 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 
 
 *Figure 5:*
+
 ![](Resources/passing_percentage_before_change.png)
 
 
+
 *Figure 6:*
+
 ![](Resources/passing_percentage_after_change.png)
 
 
@@ -48,20 +51,30 @@ How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 
 *Figure 7:*
+
 ![](Resources/math_before_change.png)
 
+
 *Figure 8:*
+
 ![](Resources/math_after_change.png)
 
+
+
 *Figure 9:*
+
 ![](Resources/reading_score_before_change.png)
+
 
 *Figure 10:*
 
 ![](Resources/reading_score_after_change.png)
+
+
 Scores by school spending
 
 *Figure 11:*
+
 ![](Resources/spending_new.png)
 
 
