@@ -8,29 +8,66 @@ after the first report the school board has notified Maria and her supervisor th
 
 How is the district summary affected?
 
-### Figure 1: District before change 
+*Figure 1:* District before change 
 
 ![](Resources/School_type_before_changes.png)
 
 
 
-### Figure 2: District after change 
+
+*Figure 2:* District after change 
+
 ![](Resources/School_type_after_changes.png)
 
 
 How is the school summary affected?
 
+*Figure 3:* School size before change
+
+![](Resources/School_size_before_changes.png)
+
+
+*Figure 4:* School size after change
+
+![](Resources/School_size_after_changes.png)
+
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
+*Figure 5:*
+![](Resources/passing_percentage_before_change.png)
+
+
+*Figure 6:*
+![](Resources/passing_percentage_after_change.png)
 
 
 How does replacing the ninth-grade scores affect the following:
 
 Math and reading scores by grade
+
+*Figure 7:*
+![](Resources/math_before_change.png)
+
+*Figure 8:*
+![](Resources/math_after_change.png)
+
+*Figure 9:*
+![](Resources/reading_score_before_change.png)
+
+*Figure 10:*
+
+![](Resources/reading_score_after_change.png)
 Scores by school spending
-Scores by school size
-Scores by school type
+
+*Figure 11:*
+![](Resources/spending_new.png)
 
 
 
-There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced
+
+
+
+
+
