@@ -6,12 +6,11 @@ after the first report the school board has notified Maria and her supervisor th
 
 ## Results:
 
-How is the district summary affected?
+### District and School Summary
 
 *Figure 1:* District before change 
 
 ![](Resources/School_type_before_changes.png)
-
 
 
 
@@ -20,7 +19,6 @@ How is the district summary affected?
 ![](Resources/School_type_after_changes.png)
 
 
-How is the school summary affected?
 
 *Figure 3:* School size before change
 
@@ -32,53 +30,54 @@ How is the school summary affected?
 ![](Resources/School_size_after_changes.png)
 
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+### Analysis for math and reading scores 
 
-*Figure 5:*
+*Figure 5:* Effects on math and reading before change
 
 ![](Resources/passing_percentage_before_change.png)
 
 
 
-*Figure 6:*
+*Figure 6:* Effects on math and reading after change
 
 ![](Resources/passing_percentage_after_change.png)
+
 
 
 How does replacing the ninth-grade scores affect the following:
 
 Math and reading scores by grade
 
-*Figure 7:*
+*Figure 7:* Math effects on other grades before change 
 
 ![](Resources/math_before_change.png)
 
 
-*Figure 8:*
+*Figure 8:* Math effects on other grades after change 
 
 ![](Resources/math_after_change.png)
 
 
 
-*Figure 9:*
+*Figure 9:* Reading effects on other grades before change 
 
 ![](Resources/reading_score_before_change.png)
 
 
-*Figure 10:*
+
+*Figure 10:* Reading effects on other grades before change 
 
 ![](Resources/reading_score_after_change.png)
 
 
-Scores by school spending
 
-*Figure 11:*
+*Figure 11:* Scores by school spending
 
 ![](Resources/spending_new.png)
 
 
-
+Replacing changes related to Thomas high School caused a very slight improvemnet in overall passing rates. And improvmeny for THS as well.
 
 
 
